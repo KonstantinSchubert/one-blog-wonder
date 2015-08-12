@@ -3,7 +3,6 @@ layout: page
 title:  "Impressum"
 ---
 
-Konstantin Schubert\\
-Hansmannstraße 2\\
-44227 Dortmund\\
-schubert.konstantin@gmail.com
+<div class="post-image-wrapper">
+  <img class="post-image image-responsive" src="{{ site.baseurl }}/assets/img/impressum.png>
+</div>
