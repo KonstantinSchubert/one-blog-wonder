@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+
+  <hr class="featurette-divider">
+
+  <!-- First Featurette -->
+  <div class="featurette" id="about">
+      <a href="{{ post.url | prepend: site.baseurl }}"><img class="featurette-image img-circle img-responsive {% cycle 'pull-right', 'pull-left' %} " src="{{ site.baseurl }}{{ post.images[0].url }}"></a>
+      <h2 class="featurette-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <!-- <span class="text-muted">Will Catch Your Eye</span> -->
+      </h2>
+      <p class="lead">{{ post.excerpt  | remove: '<p>' | remove: '</p>' }} [...] </br><a href="{{ post.url | prepend: site.baseurl }}">Read more.</a></p>
+  </div>
+
+{% endfor %}
+
+<hr class="featurette-divider">
