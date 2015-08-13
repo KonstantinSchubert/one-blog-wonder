@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Earplus From Oropax"
-date:   2015-08-10 08:00:00
+date:   2015-08-10 07:00:00
 categories: items
 published: false
 images:
-  - url: /assets/img/venlo_small.jpg
+  - url: /assets/img/earplugs_small.jpg
     alt: Venlo
     title: Venlo
-  - url: /assets/img/venlo.jpg
+  - url: /assets/img/earplugs.jpg
     title: Venlo
     alt: Venlo
 ---
