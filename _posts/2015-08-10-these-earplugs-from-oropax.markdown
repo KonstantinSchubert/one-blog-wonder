@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Earplus From Oropax"
+title:  "Earplugs From Oropax"
 date:   2015-08-10 07:00:00
 categories: items
 published: false
 images:
   - url: /assets/img/earplugs_small.jpg
-    alt: Venlo
-    title: Venlo
+    alt: Earplugs by Oropax
+    title: Earplugs by Oropax
   - url: /assets/img/earplugs.jpg
-    title: Venlo
-    alt: Venlo
+    title: Earplugs by Oropax
+    alt: Earplugs by Oropax
 ---
 Ear plugs are a necessity for the modern human. We are made with eyelids to shut the light from our eyes, and with a neck to look away. But for our ears, we need ear plugs. Don’t want to hear your neighbor moving and the noise from the street when you’re falling asleep? Don’t want to listen to other people’s conversations in the subway? It is either ear buds, or ear plugs.
 
