@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "These good old Headphones"
+title:  "These Good Old Headphones"
 date:   2015-08-17 08:00:00
 categories: items
-published: false
+published: true
 images:
   - url: /assets/img/sennheiser_small.jpg
     alt: Headphones by Sennheiser
