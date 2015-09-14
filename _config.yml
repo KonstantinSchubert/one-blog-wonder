@@ -1,16 +1,11 @@
 # Site settings
-title: Things At Home
+title: One Blog Wonder
 email: schubert.konstantin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Things we have in our home. Things we like. Because of their high quality,
-  the beaufiful design, their sturdiness or because the price is really good.
-  This is a blog about things we would recommend to our friends.
+  A blog made with jekyll and bootstrap. By schubert.konstantin@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-# twitter_username: jekyllrb
-# github_username:  schubert.konstantin@gmail.com
+# twitter_username: your twitter name
+# github_username: your username
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jekyll-sitemap

@@ -26,6 +26,3 @@ Of course you can spend more on a pair and there might be good reasons for some 
 But for us, and for you too maybe, these headphones are just the things we need. They are light, they are comfortable,
 they can stand some beating. I have had them for close to 10 years now, and when the wire gave out once I just
 soldered a new one back on.
-
-From what is available today, I guess the [Sennheiser HD 449](http://www.amazon.com/gp/product/B005N8W214/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005N8W214&linkCode=as2&tag=thingswelik06-20&linkId=OVXPGTI7MRGFM5U6)
-or the [Sennheiser H 439](http://www.amazon.com/gp/product/B005N8W1TM) come closest.
